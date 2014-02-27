@@ -11,7 +11,6 @@
 	android:focusable="true">
 
 	<ImageView
-        android:src="@android:drawable/ic_menu_add"
 	    android:id="@+id/icon"
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
@@ -22,8 +21,7 @@
 	    android:layout_width="wrap_content"
 	    android:layout_height="wrap_content"
 	    android:gravity="center_horizontal"
-	    android:text="tesssssssssssxt"
-	    android:textColor="#666"
+	    android:textColor="#FFF"
 	    android:textSize="11sp" />
 
 </LinearLayout>
