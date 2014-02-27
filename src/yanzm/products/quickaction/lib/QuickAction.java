@@ -407,7 +407,7 @@ public class QuickAction extends PopupWindowForQuickAction {
 		String title;
 		Drawable icon;
 		OnClickListener listener;
-		int index = 1;
+		int index = 0;
 	
 		for (ActionItem actionItem : actionList) {
 			title 		= actionItem.getTitle();
